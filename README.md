@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Debbbbbby
+- 👋 Hi, I’m @Debbbbbby!
 - 👀 I’m interested in app development based on psychology
 - 🌱 I’m currently learning Native iOS, Swift, Java, JavaScript
 
